@@ -59,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abakos12/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abakos12/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/abakos12/LeetCode/tree/master/0383-ransom-note) |
+| [2427-first-letter-to-appear-twice](https://github.com/abakos12/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abakos12/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/abakos12/LeetCode/tree/master/0383-ransom-note) |
+| [2427-first-letter-to-appear-twice](https://github.com/abakos12/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,8 +82,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abakos12/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2427-first-letter-to-appear-twice](https://github.com/abakos12/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/abakos12/LeetCode/tree/master/0383-ransom-note) |
+| [2427-first-letter-to-appear-twice](https://github.com/abakos12/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
