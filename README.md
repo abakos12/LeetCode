@@ -58,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abakos12/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abakos12/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/abakos12/LeetCode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abakos12/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/abakos12/LeetCode/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abakos12/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/abakos12/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
