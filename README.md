@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/abakos12/LeetCode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/abakos12/LeetCode/tree/master/0189-rotate-array) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abakos12/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/abakos12/LeetCode/tree/master/2383-add-two-integers) |
 ## Tree
 |  |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/abakos12/LeetCode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/abakos12/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/abakos12/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abakos12/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
