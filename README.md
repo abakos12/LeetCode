@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/abakos12/LeetCode/tree/master/0189-rotate-array) |
+| [0908-middle-of-the-linked-list](https://github.com/abakos12/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abakos12/LeetCode/tree/master/0002-add-two-numbers) |
+| [0908-middle-of-the-linked-list](https://github.com/abakos12/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
