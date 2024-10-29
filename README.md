@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abakos12/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/abakos12/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abakos12/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/abakos12/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Array
 |  |
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/abakos12/LeetCode/tree/master/1833-find-the-highest-altitude) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abakos12/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abakos12/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
