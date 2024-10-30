@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abakos12/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/abakos12/LeetCode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/abakos12/LeetCode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/abakos12/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abakos12/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abakos12/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abakos12/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/abakos12/LeetCode/tree/master/0392-is-subsequence) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/abakos12/LeetCode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Greedy
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abakos12/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/abakos12/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0383-ransom-note](https://github.com/abakos12/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/abakos12/LeetCode/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/abakos12/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/abakos12/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/abakos12/LeetCode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
