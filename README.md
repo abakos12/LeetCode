@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abakos12/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/abakos12/LeetCode/tree/master/0112-path-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/abakos12/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abakos12/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/abakos12/LeetCode/tree/master/0112-path-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/abakos12/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Array
 |  |
@@ -119,10 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abakos12/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/abakos12/LeetCode/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abakos12/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/abakos12/LeetCode/tree/master/0112-path-sum) |
 ## Simulation
 |  |
 | ------- |
