@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abakos12/LeetCode/tree/master/0189-rotate-array) |
 | [0898-transpose-matrix](https://github.com/abakos12/LeetCode/tree/master/0898-transpose-matrix) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/abakos12/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abakos12/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/abakos12/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/abakos12/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/abakos12/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abakos12/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abakos12/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 <!---LeetCode Topics End-->
