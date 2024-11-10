@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abakos12/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abakos12/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/abakos12/LeetCode/tree/master/0189-rotate-array) |
+| [0643-maximum-average-subarray-i](https://github.com/abakos12/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0898-transpose-matrix](https://github.com/abakos12/LeetCode/tree/master/0898-transpose-matrix) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/abakos12/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abakos12/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abakos12/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/abakos12/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Database
 |  |
 | ------- |
