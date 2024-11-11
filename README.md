@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/abakos12/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abakos12/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/abakos12/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/abakos12/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2427-first-letter-to-appear-twice](https://github.com/abakos12/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/abakos12/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/abakos12/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/abakos12/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/abakos12/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/abakos12/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/abakos12/LeetCode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/abakos12/LeetCode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
