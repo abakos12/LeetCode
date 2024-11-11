@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/abakos12/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/abakos12/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/abakos12/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/abakos12/LeetCode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/abakos12/LeetCode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2427-first-letter-to-appear-twice](https://github.com/abakos12/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Sliding Window
