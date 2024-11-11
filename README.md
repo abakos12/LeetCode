@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abakos12/LeetCode/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/abakos12/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0898-transpose-matrix](https://github.com/abakos12/LeetCode/tree/master/0898-transpose-matrix) |
+| [0941-sort-array-by-parity](https://github.com/abakos12/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/abakos12/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abakos12/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/abakos12/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abakos12/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/abakos12/LeetCode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/abakos12/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/abakos12/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,5 +172,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0941-sort-array-by-parity](https://github.com/abakos12/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abakos12/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 <!---LeetCode Topics End-->
