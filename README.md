@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abakos12/LeetCode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/abakos12/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/abakos12/LeetCode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/abakos12/LeetCode/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/abakos12/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abakos12/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/abakos12/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/abakos12/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/abakos12/LeetCode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/abakos12/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/abakos12/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abakos12/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abakos12/LeetCode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/abakos12/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abakos12/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/abakos12/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abakos12/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/abakos12/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/abakos12/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/abakos12/LeetCode/tree/master/0874-backspace-string-compare) |
