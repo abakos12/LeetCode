@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abakos12/LeetCode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/abakos12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abakos12/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abakos12/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/abakos12/LeetCode/tree/master/0189-rotate-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abakos12/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/abakos12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/abakos12/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/abakos12/LeetCode/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/abakos12/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/abakos12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0941-sort-array-by-parity](https://github.com/abakos12/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abakos12/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Memoization
