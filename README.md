@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/abakos12/LeetCode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/abakos12/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/abakos12/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/abakos12/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abakos12/LeetCode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/abakos12/LeetCode/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/abakos12/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abakos12/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/abakos12/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/abakos12/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abakos12/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abakos12/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/abakos12/LeetCode/tree/master/0392-is-subsequence) |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/abakos12/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abakos12/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abakos12/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
