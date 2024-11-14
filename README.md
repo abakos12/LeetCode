@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/abakos12/LeetCode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/abakos12/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/abakos12/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/abakos12/LeetCode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/abakos12/LeetCode/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/abakos12/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/abakos12/LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/abakos12/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Queue
 |  |
